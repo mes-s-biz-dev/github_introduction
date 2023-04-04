@@ -16,7 +16,7 @@
 |--|--|
 |Git Bash|Gitを利用するためのツール|
 |Source Tree|GitをGUIから操作するためのツール(事前にGit Bashのインストールが必要)|
-|~~SSH|暗号化した通信手段の一つ(Secure Shell)。秘密鍵と呼ばれるファイルをクライアントPCに、<br>公開鍵と呼ばれるファイルをGitHub上に保存することで機能する。~~|
+|~~SSH~~|~~暗号化した通信手段の一つ(Secure Shell)。秘密鍵と呼ばれるファイルをクライアントPCに、<br>公開鍵と呼ばれるファイルをGitHub上に保存することで機能する。~~|
 |MFA|多要素認証(Multi Factor Authentication)。アカウントの乗っ取りなどを防ぐために設定する必要がある。|
 
 ## 1. GitHubの利用環境準備
