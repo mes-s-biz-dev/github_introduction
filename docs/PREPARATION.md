@@ -138,7 +138,7 @@ git config --global user.name "[ユーザ名]"
 次にメールアドレスを設定しましょう。
 
 ```
-git config --global user.email "[会社のメールアドレス]"
+git config --global user.email "[自分のメールアドレス]"
 ```
 
 次にプロキシサーバーの設定をしましょう。プロキシサーバー情報については岡野まで問い合わせください。
@@ -162,7 +162,7 @@ mkdir -p /c/source/meguri && cd /c/source/meguri
 ```
 
 ```
-git clone git@github.com:okano-tomoyuki/test_private_repository.git
+git clone git@github.com:mes-s-biz-dev/test_private_repository.git
 ```
 
 下記コマンドを実行し、リポジトリをcloneできているか確認します。
