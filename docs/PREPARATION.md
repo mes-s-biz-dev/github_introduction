@@ -162,7 +162,7 @@ mkdir -p /c/source/meguri && cd /c/source/meguri
 ```
 
 ```
-git clone git@github.com:mes-s-biz-dev/python_learning.git
+git clone git@github.com:mes-s-biz-dev/ph2_dtc.git
 ```
 
 下記コマンドを実行し、リポジトリをcloneできているか確認します。
@@ -174,7 +174,7 @@ ls
 確認ができたらcloneしてきたリポジトリを削除し、同名のフォルダを作成します。(後でSourceTreeの疎通確認に利用するためです。)
 
 ```
-rm -rf python_learning && mkdir python_learning
+rm -rf ph2_dtc && mkdir ph2_dtc
 ```
 
 Git Bashを閉じます。
