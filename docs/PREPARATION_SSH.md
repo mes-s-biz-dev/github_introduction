@@ -1,4 +1,4 @@
-# Preparing the usage environment for Git and GitHub
+# Git/GitHub利用環境整備
 
 所要時間　60分
 
