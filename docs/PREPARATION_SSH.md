@@ -97,6 +97,11 @@ https://docs.github.com/ja/authentication/securing-your-account-with-two-factor-
 ### 2.1 Git Bashのインストール
 
 以下のページからGit for Windowsをインストールします。
+
+https://gitforwindows.org/
+
+インストール手順は以下を参考にします。
+(開発環境そのものがWindowsのみ(CRLFのみ)の環境を想定しているため、基本デフォルト設定のまますすめればよい。
 https://www.curict.com/item/60/60bfe0e.html
 
 ### 2.2 Gitの初期設定、疎通確認
